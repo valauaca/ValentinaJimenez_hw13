@@ -97,6 +97,8 @@ for i in range(len(false)):
 	if (false[i]=="car"):
 
 		cont1 += 1	
+
+## Mensaje que arroja la probabilidad de ganar el premio con cambio de puerta y sin cambio de puerta
 	
 print "La posibilidad de ganar con cambio de puerta es de", cont, "/100. La probabilidad de ganar sin cambio de puerta es de", cont1, "/100."
 
